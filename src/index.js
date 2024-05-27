@@ -9,6 +9,7 @@ root.render(
   <React.StrictMode>
         <RouterProvider router = {router } />
   </React.StrictMode>
+  //Instead of <App>, We gave <RouterProvider>
 );
 
 reportWebVitals();
