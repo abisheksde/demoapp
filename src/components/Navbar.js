@@ -5,6 +5,7 @@ function Navbar() {
         <div className="navbar-brand">
             <h4>My app</h4>
         </div>
+        
         <button
         className="navbar-toggler"
         type="button"
@@ -16,6 +17,7 @@ function Navbar() {
         >
             <span className="navbar-toggler-icon">Button</span>
         </button>
+        
         <div
         className="collapse navbar-collapse mr-auto"
         id="navbarNav"
